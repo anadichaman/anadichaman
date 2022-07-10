@@ -1,6 +1,4 @@
--Hi, I’m @anadichaman 
--I’m interested in absolutely nothing for now
--I’m currently relearning how to code
+-Hi, I’m @anadichaman, I have varied interests and I’m currently relearning coding in a bunch of different languages
 
 <!---
 anadichaman/anadichaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
